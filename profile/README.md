@@ -14,7 +14,7 @@ A VIWSEC atua em diferentes frentes de segurança da informação, incluindo:
 - Gestão de vulnerabilidades
 - Pentest e avaliações de segurança
 - Implantação de práticas DevSecOps
-- Apoio à governança e conformidade (ex: ISO 27001)
+- Apoio à governança e conformidade
 
 ## 💻 Plataforma proprietária
 
